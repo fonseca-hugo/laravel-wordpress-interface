@@ -1,0 +1,11 @@
+{
+  "name": "fonseca-hugo/laravel-wordpress-interface",
+  "autoload": {
+    "psr-0" : {
+      "HugoFonseca\\LaravelWordpressInterface" : "src"
+    }
+  },
+  "require": {
+    "illuminate/database": ">=5.0.0"
+  }
+}
